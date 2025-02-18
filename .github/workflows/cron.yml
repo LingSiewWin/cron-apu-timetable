@@ -1,4 +1,4 @@
-name: your actions name
+name: APU calander to Google calander
 
 on:
   schedule:
